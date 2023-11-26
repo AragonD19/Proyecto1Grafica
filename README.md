@@ -35,3 +35,4 @@ El código proporcionado es una implementación en C++ de un programa de renderi
 - **Movimiento y Rotación:** Los planetas y otros objetos realizan movimientos y rotaciones simulados para dar la apariencia de un sistema solar dinámico.
 
 ## Video
+[![Demo del proyecto]([https://youtu.be/7k8NllgjH9A](https://youtu.be/7Kvn67wgDS0)https://youtu.be/7Kvn67wgDS0)]
