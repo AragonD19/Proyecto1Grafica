@@ -24,17 +24,17 @@
 - `main`: Inicializa SDL y la ventana, carga un modelo 3D desde un archivo OBJ, y entra en un bucle principal donde se renderiza continuamente el modelo con transformaciones y sombreado de Phong.
 
 
-#SOl:
+# SOl:
 ![Alt Text](Sol.gif)
-#MPlaneta Rocoso:
+# Planeta Rocoso:
 ![Alt Text](Roky.gif)
-#Gigante Gaseoso:
+# Gigante Gaseoso:
 ![Alt Text](Gas.gif)
-#Tierra:
+# Tierra:
 ![Alt Text](Tierra.gif)
-#Luna:
+# Luna:
 ![Alt Text](Luna.gif)
-#Mercurio:
+# Mercurio:
 ![Alt Text](Merc.gif)
-#Marte
+# Marte
 ![Alt Text](Mars.gif)
