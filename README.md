@@ -23,3 +23,16 @@
 ## Función Principal:
 - `main`: Inicializa SDL y la ventana, carga un modelo 3D desde un archivo OBJ, y entra en un bucle principal donde se renderiza continuamente el modelo con transformaciones y sombreado de Phong.
 
+
+#SOl:
+![Alt Text](Sol.gif)
+#MPlaneta Rocoso:
+![Alt Text](Roky.gif)
+#Gigante Gaseoso:
+![Alt Text](Gas.gif)
+#Tierra:
+![Alt Text](Tierra.gif)
+#Luna:
+![Alt Text](Luna.gif)
+#Mercurio:
+![Alt Text](Merc.gif)
